@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/Exersise-API-Table/static/css/main.6b19249c.chunk.css",
-    "main.js": "/Exersise-API-Table/static/js/main.acb6ab5a.chunk.js",
-    "main.js.map": "/Exersise-API-Table/static/js/main.acb6ab5a.chunk.js.map",
-    "runtime-main.js": "/Exersise-API-Table/static/js/runtime-main.ccc883e4.js",
-    "runtime-main.js.map": "/Exersise-API-Table/static/js/runtime-main.ccc883e4.js.map",
-    "static/css/2.0624914a.chunk.css": "/Exersise-API-Table/static/css/2.0624914a.chunk.css",
-    "static/js/2.47c3a530.chunk.js": "/Exersise-API-Table/static/js/2.47c3a530.chunk.js",
-    "static/js/2.47c3a530.chunk.js.map": "/Exersise-API-Table/static/js/2.47c3a530.chunk.js.map",
-    "index.html": "/Exersise-API-Table/index.html",
-    "precache-manifest.6973280f9aa9f84f725ad3aaae734b82.js": "/Exersise-API-Table/precache-manifest.6973280f9aa9f84f725ad3aaae734b82.js",
-    "service-worker.js": "/Exersise-API-Table/service-worker.js",
-    "static/css/2.0624914a.chunk.css.map": "/Exersise-API-Table/static/css/2.0624914a.chunk.css.map",
-    "static/css/main.6b19249c.chunk.css.map": "/Exersise-API-Table/static/css/main.6b19249c.chunk.css.map"
+    "main.css": "/TableApi/static/css/main.6b19249c.chunk.css",
+    "main.js": "/TableApi/static/js/main.21193996.chunk.js",
+    "main.js.map": "/TableApi/static/js/main.21193996.chunk.js.map",
+    "runtime-main.js": "/TableApi/static/js/runtime-main.92f4f8fc.js",
+    "runtime-main.js.map": "/TableApi/static/js/runtime-main.92f4f8fc.js.map",
+    "static/css/2.0624914a.chunk.css": "/TableApi/static/css/2.0624914a.chunk.css",
+    "static/js/2.47c3a530.chunk.js": "/TableApi/static/js/2.47c3a530.chunk.js",
+    "static/js/2.47c3a530.chunk.js.map": "/TableApi/static/js/2.47c3a530.chunk.js.map",
+    "index.html": "/TableApi/index.html",
+    "precache-manifest.b951461faef3e0e5af6b331541e2de20.js": "/TableApi/precache-manifest.b951461faef3e0e5af6b331541e2de20.js",
+    "service-worker.js": "/TableApi/service-worker.js",
+    "static/css/2.0624914a.chunk.css.map": "/TableApi/static/css/2.0624914a.chunk.css.map",
+    "static/css/main.6b19249c.chunk.css.map": "/TableApi/static/css/main.6b19249c.chunk.css.map"
   }
 }
